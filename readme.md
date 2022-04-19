@@ -5,6 +5,6 @@ see which person gets the highest roll. If both the players get the same number
 then the result is considered as a draw.
 
 The project uses the following:
-    * Html.
-    * Css.
-    * Vanilla JavaScript.
+   * Html.
+   * Css.
+   * Vanilla JavaScript.
