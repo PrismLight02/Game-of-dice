@@ -8,3 +8,5 @@ The project uses the following:
    * Html.
    * Css.
    * Vanilla JavaScript.
+
+[Deployment Link](https://prismlight02.github.io/Game-of-dice/)
